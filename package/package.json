@@ -1,0 +1,16 @@
+{
+  "name": "natural-number-parsing",
+  "version": "1.0.0",
+  "description": "A package to parse and extract numbers from natural text. Has support for a wide variety of number formats.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/brianbob12/natural-number-parsing",
+  "author": "Cyrus Singer (japaneserhino@gmail.com)",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "build":"tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
