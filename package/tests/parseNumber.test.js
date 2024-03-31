@@ -1,4 +1,4 @@
-const parseNumber = require('../lib/parseNumber');
+const { parseNumber } = require('../lib/parseNumber');
 
 describe('parseNumber weird and wonderful inputs', () => {
   it('should parse a number from a string', () => {

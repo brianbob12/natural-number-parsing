@@ -56,7 +56,7 @@ console.log(wordsToNumbers('I have one hundred and fifty apples')); // I have 15
 console.log(wordsToNumbers('I have 150 apples')); // I have 150 apples
 ```
 
-For more information on supported number formats, see the [tests]().
+For more information on supported number formats, see the [tests](https://github.com/brianbob12/natural-number-parsing/tree/main/tests).
 
 ## Contributing
 
