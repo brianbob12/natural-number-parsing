@@ -1,6 +1,6 @@
 {
   "name": "natural-number-parsing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to parse and extract numbers from natural text. Has support for a wide variety of number formats.",
   "main": "src/index.ts",
   "repository": "https://github.com/brianbob12/natural-number-parsing",
