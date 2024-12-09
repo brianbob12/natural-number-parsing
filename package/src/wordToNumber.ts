@@ -73,7 +73,7 @@ const replaceKWithThousand = (words: string[]): string[] => {
 			newWords.push("thousand")
 			continue
 		}
-		if (words[i].endsWith("k")) {
+		if (words[i].match(/^[0-9.]+k$/)) {
 			newWords.push(words[i].substring(0, words[i].length - 1))
 			newWords.push("thousand")
 			continue
